@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccd3bb60-a417-486e-aa4e-34949bafbf05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springdemo/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springdemo/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springdemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springdemo/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springdemo/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ccd3bb60-a417-486e-aa4e-34949bafbf05" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,8 +72,16 @@
       <updated>1659047716536</updated>
       <workItem from="1659047725034" duration="1965000" />
       <workItem from="1659130139383" duration="3107000" />
-      <workItem from="1659176899590" duration="7943000" />
+      <workItem from="1659176899590" duration="8533000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1659212555342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659212555342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
